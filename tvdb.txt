@@ -19,6 +19,6 @@ ch_id | ch_name | base_url | m3u8_url
 018 | TOP NEWS |  https://tv.trueid.net/th-th/live/tid-top-news |
 019 | NEWS 1 |  https://tv.trueid.net/th-th/live/news-newss1 |
 020 | Boomerang |  https://tv.trueid.net/th-th/live/boomerang-hd |
-021 | Mono 29 |  https://tv.trueid.net/th-th/live/monomax-sports |
-022 | ANIPLUS |  https://tv.trueid.net/th-th/live/aniplus-channel |
+021 | Mono 29 |  https://mono29.com/livetv | https://live-us1.thaimomo.com/live-as/chmono29-2/playlist.m3u8
+022 | Mango Mojito Cartoon |  https://tv.trueid.net/th-th/live/livetv-mango-mojito |
 023 | CARTOON CLUB |  https://tv.trueid.net/th-th/live/tid-cartoon-club-channel |
