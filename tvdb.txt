@@ -1,0 +1,24 @@
+ch_id | ch_name | base_url | m3u8_url
+001 | NBT World  |  https://thainews.prd.go.th/thainews/live/ | https://cdn-edge.iiptvcdn.com/live_event/smil:d36f-93c1-9c58-fdcc-427f.smil/playlist.m3u8
+002 | NBT HD |  https://thainews.prd.go.th/thainews/live/ | https://cdn-edge.iiptvcdn.com/live_event/smil:f180-054a-38d7-ce66-f7cf.smil/playlist.m3u8
+003 | Thai PBS |  https://www.thaipbs.or.th/live | https://thaipbs-mcx0wm.cdn.byteark.com/vtt-live/playlist.m3u8
+004 | TV 5 | https://thaitv5hd.com/live/ | https://nodelive.thaitv5hd.com/hls/tv5hdlive-for-thaitv5hdcom/master.m3u8
+005 | MCOT 9 |  https://tv.mcot.net/tv/th | https://mcothd-streaming-edge-cdn.mcot.net/tencentmcot/smil:tencentmcot.smil/playlist.m3u8
+006 | CH 3 |  https://tv.trueid.net/th-th/live/ch3-hd |
+007 | 7 HD |  https://tv.trueid.net/th-th/live/ch7-hd |
+008 | CH 8 |  https://tv.trueid.net/th-th/live/ch8 |
+009 | Thairath TV |  https://tv.trueid.net/th-th/live/thairathtv-hd |
+010 | TRUE4U | https://tv.trueid.net/th-th/live/true4u |
+011 | Workpoint |  https://tv.trueid.net/th-th/live/workpointtv |
+012 | One HD |  https://tv.trueid.net/th-th/live/one-hd |
+013 | PPTV HD |  https://tv.trueid.net/th-th/live/pptv-hd |
+014 | Nation |  https://tv.trueid.net/th-th/live/nationtv |
+015 | TNN 16 |  https://tv.trueid.net/th-th/live/tnn16 |
+016 | Amarin TV |  https://tv.trueid.net/th-th/live/amarintv-hd |
+017 | GMM 25 |  https://tv.trueid.net/th-th/live/gmm25 |
+018 | TOP NEWS |  https://tv.trueid.net/th-th/live/tid-top-news |
+019 | NEWS 1 |  https://tv.trueid.net/th-th/live/news-newss1 |
+020 | Boomerang |  https://tv.trueid.net/th-th/live/boomerang-hd |
+021 | Mono 29 |  https://tv.trueid.net/th-th/live/monomax-sports |
+022 | ANIPLUS |  https://tv.trueid.net/th-th/live/aniplus-channel |
+023 | CARTOON CLUB |  https://tv.trueid.net/th-th/live/tid-cartoon-club-channel |
