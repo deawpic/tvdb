@@ -2,7 +2,7 @@ ch_id | ch_name | base_url | m3u8_url
 001 | NBT World  |  https://thainews.prd.go.th/thainews/live/ | https://cdn-edge.iiptvcdn.com/live_event/smil:d36f-93c1-9c58-fdcc-427f.smil/playlist.m3u8
 002 | NBT HD |  https://thainews.prd.go.th/thainews/live/ | https://cdn-edge.iiptvcdn.com/live_event/smil:f180-054a-38d7-ce66-f7cf.smil/playlist.m3u8
 003 | Thai PBS |  https://www.thaipbs.or.th/live | https://thaipbs-mcx0wm.cdn.byteark.com/vtt-live/playlist.m3u8
-004 | TV 5 | https://thaitv5hd.com/live/ | https://nodelive.thaitv5hd.com/hls/tv5hdlive-for-thaitv5hdcom/master.m3u8
+004 | TV 5 | https://tv.trueid.net/th-th/live/ch5 | 
 005 | MCOT 9 |  https://tv.trueid.net/th-th/live/9mcot-hd |
 006 | CH 3 |  https://tv.trueid.net/th-th/live/ch3-hd |
 007 | 7 HD |  https://tv.trueid.net/th-th/live/ch7-hd |
